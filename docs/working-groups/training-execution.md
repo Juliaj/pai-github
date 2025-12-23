@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: default
 title: Training & Execution Pipeline
-permalink: /working-groups/training-execution/
 ---
 
 ## Training & Execution Pipeline Working Group

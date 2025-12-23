@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: default
 title: Embodied Agentic AI
-permalink: /working-groups/embodied-agentic-ai/
 ---
 
 ## Embodied Agentic AI Working Group

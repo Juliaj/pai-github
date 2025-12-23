@@ -5,5 +5,5 @@ source "https://rubygems.org"
 # Use github-pages which includes compatible Jekyll version
 gem "github-pages", group: :jekyll_plugins
 
-# Minimal Mistakes theme
-gem "minimal-mistakes-jekyll"
+# Primer theme
+gem "jekyll-theme-primer"

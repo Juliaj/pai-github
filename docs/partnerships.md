@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: default
 title: For Organizations
-permalink: /partnerships/
 ---
 
 ## For Organizations

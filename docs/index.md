@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: default
 title: Home
-permalink: /
 ---
 
 ## Physical AI SIG Documentation

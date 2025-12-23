@@ -1,0 +1,26 @@
+# Jekyll configuration for GitHub Pages
+
+title: Physical AI SIG
+description: OSRA TGC Special Interest Group for Physical AI
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Note: jekyll-github-metadata is included by github-pages gem
+# For local development, set JEKYLL_GITHUB_TOKEN="" to prevent API calls
+# GitHub Pages will handle this automatically when deployed
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - .pre-commit-config.yaml
+  - BUILD.md
+  - README.md
+  - LICENSE
+  - supporting_doc_dont_merge

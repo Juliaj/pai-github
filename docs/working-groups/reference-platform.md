@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Reference Platform & Applications
 permalink: /working-groups/reference-platform/
 ---

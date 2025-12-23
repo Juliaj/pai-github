@@ -1,7 +1,11 @@
+---
 # Jekyll configuration for GitHub Pages
 
 title: Physical AI SIG
 description: OSRA TGC Special Interest Group for Physical AI
+
+# GitHub repository metadata (for jekyll-github-metadata plugin)
+repository: "Juliaj/pai-github"
 
 # GitHub Pages settings
 plugins:

@@ -1,3 +1,4 @@
+---
 # Jekyll configuration for GitHub Pages
 
 title: Physical AI SIG
@@ -13,12 +14,15 @@ tagline: "OSRA TGC Special Interest Group for Physical AI"
 url: "https://ros-physical-ai.github.io"
 baseurl: ""
 
+# GitHub repository metadata (for jekyll-github-metadata plugin)
+repository: "Juliaj/pai-github"
+
 # Minimal Mistakes theme settings
 minimal_mistakes_skin: "dark"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true  # Enable search
-breadcrumbs: true  # Enable breadcrumb navigation
-toc: true  # Enable table of contents
-toc_sticky: true  # Sticky table of contents
+search: true
+breadcrumbs: true
+toc: true
+toc_sticky: true
 
 # Site author
 author:

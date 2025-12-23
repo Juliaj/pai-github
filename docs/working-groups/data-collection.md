@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Data Collection Pipeline
 permalink: /working-groups/data-collection/
 ---

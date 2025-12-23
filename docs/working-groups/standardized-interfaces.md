@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Standardized Interfaces & Messages
 permalink: /working-groups/standardized-interfaces/
 ---

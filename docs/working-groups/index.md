@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Working Groups
 permalink: /working-groups/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: SIG Expectations
 permalink: /about/expectations/
 ---

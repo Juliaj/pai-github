@@ -13,5 +13,5 @@ gem "minitest", "~> 5.27.0"
 # Use github-pages which includes compatible Jekyll version
 gem "github-pages", group: :jekyll_plugins
 
-# Minimal Mistakes theme
-gem "minimal-mistakes-jekyll"
+# Dinky theme
+gem "jekyll-theme-dinky"

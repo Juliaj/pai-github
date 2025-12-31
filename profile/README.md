@@ -12,7 +12,8 @@
 
 The Physical AI SIG is a subproject of OSRA TGC focused on providing declarative standards and tooling to simplify training, deploying, and operating Physical AI models across diverse robot embodiments.
 
-We leverage ROS's proven strengths—standardized interfaces, hardware abstraction, and mature ecosystem—to bridge the gap between AI research and real-world deployment. By establishing common conventions for describing robotic embodiments and their interfaces, we enable:
+We leverage ROS's proven strengths—standardized interfaces, hardware abstraction, and mature ecosystem—to bridge the gap between AI research and real-world deployment.
+By establishing common conventions for describing robotic embodiments and their interfaces, we enable:
 
 - **Data Collection** across diverse hardware platforms
 - **Model Training** with standardized data formats
@@ -22,8 +23,7 @@ We leverage ROS's proven strengths—standardized interfaces, hardware abstracti
 
 **Mission:** Define standardizations to represent and interface with robots for training, simulating, and deploying physical AI models across various embodiments.
 
-**Vision:** Enable ROS to serve as both a platform for data collection and a
-framework for the commercial deployment of Physical AI models.
+**Vision:** Enable ROS to serve as both a platform for data collection and a framework for the commercial deployment of Physical AI models.
 
 ## Working Groups
 
@@ -39,7 +39,8 @@ We're organized into five working groups, each focused on a critical layer of th
 
 ## Community & Contributing
 
-The Physical AI SIG is developed in the open and welcomes contributions from the community. We ask that participants commit to making regular open-source contributions to items outlined in the SIG's roadmap.
+The Physical AI SIG is developed in the open and welcomes contributions from the community.
+We ask that participants commit to making regular open-source contributions to items outlined in the SIG's roadmap.
 
 ### Connect With Us
 

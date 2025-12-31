@@ -16,7 +16,8 @@ This group makes the initiative's work tangible by integrating all technologies 
 
 ### Reference Hardware Platform (T(AI)rtle Bot 5)
 
-Build and maintain a low-cost, open-source robot that serves as the primary integration and demonstration target for the entire initiative. The platform includes simulation demonstrations for accessibility.
+Build and maintain a low-cost, open-source robot that serves as the primary integration and demonstration target for the entire initiative.
+The platform includes simulation demonstrations for accessibility.
 
 ### Showcase Applications & MCP Introspection
 
@@ -28,13 +29,15 @@ Use the reference platform and its applications as a tool to grow the user base 
 
 ### Simulation Resources
 
-Provide examples using teleoperation and deployment with various simulators including O3DE, Mujoco, and Isaac Sim. Note: RL training in simulation is not prioritized as people favor lock-step approaches.
+Provide examples using teleoperation and deployment with various simulators including O3DE, Mujoco, and Isaac Sim.
+Note: RL training in simulation is not prioritized as people favor lock-step approaches.
 
 ## Roadmap
 
 ### Long-term Vision
 
-Create a low-cost, open-source reference platform (T(AI)rtle Bot 5) that serves as the primary integration and demonstration target for the entire Physical AI initiative. The platform will enable researchers and developers to:
+Create a low-cost, open-source reference platform (T(AI)rtle Bot 5) that serves as the primary integration and demonstration target for the entire Physical AI initiative.
+The platform will enable researchers and developers to:
 
 - Test and validate Physical AI standards and interfaces
 - Develop and share applications accessible to the broader community
@@ -71,7 +74,8 @@ Create a low-cost, open-source reference platform (T(AI)rtle Bot 5) that serves 
 
 ## How to Contribute
 
-Interested in contributing to the Reference Platform & Applications working group? Here's how to get started:
+Interested in contributing to the Reference Platform & Applications working group?
+Here's how to get started:
 
 1. Review the roadmap and current priorities above
 2. Check the [Getting Involved](../community/onboarding) page for onboarding information

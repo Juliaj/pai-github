@@ -14,7 +14,8 @@ Value proposition and benefits to be added
 
 ## Mission & Vision
 
-The Physical AI SIG defines standardizations to represent and interface with robots for training, simulating, and deploying physical AI models across various embodiments. Our long-term vision is to enable ROS to serve as both a platform for data collection and a framework for the commercial deployment of Physical AI models.
+The Physical AI SIG defines standardizations to represent and interface with robots for training, simulating, and deploying physical AI models across various embodiments.
+Our long-term vision is to enable ROS to serve as both a platform for data collection and a framework for the commercial deployment of Physical AI models.
 
 ## Organizational Participation
 

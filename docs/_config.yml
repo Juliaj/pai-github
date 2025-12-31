@@ -5,7 +5,7 @@ title: Physical AI SIG
 description: OSRA TGC Special Interest Group for Physical AI
 
 # Theme for rendering markdown to HTML
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-dinky
 
 # Site settings
 locale: "en-US"
@@ -17,12 +17,6 @@ baseurl: ""
 # GitHub repository metadata (for jekyll-github-metadata plugin)
 repository: "ros-physical-ai/.github"
 
-# Minimal Mistakes theme settings
-minimal_mistakes_skin: "dark"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
-breadcrumbs: true
-toc: true
-toc_sticky: true
 
 # Site author
 author:

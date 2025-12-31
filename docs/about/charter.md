@@ -5,8 +5,7 @@ title: SIG Charter
 
 ## SIG Charter
 
-The official charter document for the OSRA TGC Special Interest Group for
-Physical AI.
+The official charter document for the OSRA TGC Special Interest Group for Physical AI.
 
 ## Charter Document
 

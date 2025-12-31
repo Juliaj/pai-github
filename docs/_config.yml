@@ -4,7 +4,7 @@ title: Physical AI SIG
 description: OSRA TGC Special Interest Group for Physical AI
 
 # Theme for rendering markdown to HTML
-theme: jekyll-theme-primer
+theme: jekyll-theme-dinky
 
 # Site settings
 url: "https://ros-physical-ai.github.io"

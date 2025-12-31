@@ -57,5 +57,3 @@ exclude:
   - BUILD.md
   - README.md
   - LICENSE
-  - supporting_doc_dont_merge
-  - dont_commit

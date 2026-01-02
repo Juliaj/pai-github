@@ -20,6 +20,6 @@ Contribution opportunities to be added
 
 ## Get Started
 
-1. Review [SIG Expectations](about/expectations)
+1. Review [SIG Expectations](../about/expectations)
 2. Join a working group that aligns with your interests
 3. Attend bi-weekly SIG meetings
